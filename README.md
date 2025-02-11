@@ -20,6 +20,13 @@ Welcome to the **To-Do List Web Application**, a simple and efficient task manag
 
 ---
 
+## 🚀 How to Use
+
+- **Try out the To-Do List Web Application here:**
+- 👉 [To-Do List App](https://todolist-anishapparu.netlify.app/)
+
+---
+
 ## 🚀 How to Run
 1. Clone the repository to your local machine:
    ```bash
