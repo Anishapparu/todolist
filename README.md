@@ -23,7 +23,7 @@ Welcome to the **To-Do List Web Application**, a simple and efficient task manag
 ## 🚀 How to Run
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/todolist-app.git
+   git clone https://github.com/Anishapparu/todolist
    ```
 2. Navigate to the project folder:
    ```bash
